@@ -43,5 +43,5 @@ Code Coverage Report:
   Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
 ```
 
-![screenshot](./screeshot.png)
+![screenshot](./screeshot.png "screenshot")
 
