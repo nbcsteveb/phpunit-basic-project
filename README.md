@@ -2,7 +2,7 @@ A basic phpunit project.
 
 # Required Tools
 
-- [composer](1)
+- [composer](https://getcomposer.org)
 
 # Install
 
@@ -45,5 +45,3 @@ Code Coverage Report:
 
 ![screenshot](./screeshot.png)
 
-
-[1](https://getcomposer.org)
